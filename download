@@ -1,0 +1,4 @@
+# Raw captures may contain credentials - never commit them
+*.pcap
+*.pcapng
+.DS_Store
